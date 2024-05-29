@@ -1,0 +1,42 @@
+body {
+    background-image: url("images/farm.jpeg");
+    background-size: cover;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+    font-weight: bold;
+    text-align: center;
+    height: 100vh
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: #7f4f24;
+}
+
+#save-btn {
+    background: olivedrab;
+}
+
+#reset-btn {
+    background: darkred;
+}
